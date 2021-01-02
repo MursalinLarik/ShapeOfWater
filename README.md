@@ -15,7 +15,7 @@ The accuracy and the loss from the classification models are recorded. The resul
 <br />
 <br />
 The results from the object detection algorithm of Faster RCNN yielded the following result:
-![alt text](https://github.com/MursalinLarik/ShapeOfWater/blob/master/faster_RCNN_object_detection.jpg)
+![alt text](https://github.com/MursalinLarik/ShapeOfWater/blob/master/faster_rcnn_object_detection.png)
 <br />
 <br />
 Using GANs, we were able to generate some results similar to the actual B-Scan radargrams:
