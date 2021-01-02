@@ -1,4 +1,4 @@
-# ShapeOfWater
+# Shape Of Water
 Shape of Water is a civic innovation project aimed at resolving the water issues in the Megacity Karachi. We do so by first identifying the lack of existing maps of the water supply network. GPR (Ground Penetrating Radar) is a device which captures B-scan radargrams of the underground 2D area. At the core of the project, we try to classify GPR radargrams at first then detect the pipes in the radargrams and then calculate their depth in subsurface. This information coupled with the embedded GPS location is visualized on a geographical map using QGIS. This CNNs, GAN models and digital image processing algorithms were used in the process to reach the end goal. 
 <br />
 <br />
@@ -15,11 +15,11 @@ The accuracy and the loss from the classification models are recorded. The resul
 <br />
 <br />
 The results from the object detection algorithm of Faster RCNN yielded the following result:
-![alt text](https://github.com/MursalinLarik/ShapeOfWater/blob/master/faster_RCNN_object_detection.png)
+![alt text](https://github.com/MursalinLarik/ShapeOfWater/blob/master/faster_RCNN_object_detection.jpg)
 <br />
 <br />
 Using GANs, we were able to generate some results similar to the actual B-Scan radargrams:
-![alt text](https://github.com/MursalinLarik/ShapeOfWater/blob/master/GAN_architecture.png)
+![alt text](https://github.com/MursalinLarik/ShapeOfWater/blob/master/GAN_architecture.jpg)
 <br/>
 ![alt text](https://github.com/MursalinLarik/ShapeOfWater/blob/master/Gan_results.png)
 <br />
